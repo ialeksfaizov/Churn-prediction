@@ -29,7 +29,6 @@
 
 ## Задействованные библиотеки и модули
 - Pandas
-- Numpy
 - Scikit-learn 
 - Matplotlib
 
